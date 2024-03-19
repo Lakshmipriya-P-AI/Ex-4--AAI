@@ -1,4 +1,4 @@
-<H4>Name: Lakdhmi Priya P</H4>
+<H4>Name: Lakshmi Priya P</H4>
 <H4>Reg. No: 212221230053</H4>
 <H3>EX. NO.4</H3>
 <H3>DATE:19.03.24</H3>
